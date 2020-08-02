@@ -6,6 +6,7 @@ func Add(s string) string {
 	data := []byte(s)
 	sData := string(data)
 	datas = append(datas, sData)
+	datas = append(datas, sData)
 
 	return sData
 }
