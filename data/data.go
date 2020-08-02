@@ -1,4 +1,4 @@
-package go_pprof_example
+package data
 
 var datas []string
 
