@@ -1,3 +1,3 @@
-module go-pprof-example
+module github.com/henrygas/go-pprof-example
 
 go 1.14
